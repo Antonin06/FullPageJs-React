@@ -43,3 +43,10 @@
 #fp-nav ul li a span{
   background-color: white;
 }
+.fp-slidesNav ul li a span{
+	background-color: white;
+}
+.fp-slidesNav{
+	display: flex;
+	justify-content: center;
+}
