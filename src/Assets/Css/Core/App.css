@@ -34,10 +34,10 @@
   background-color: var(--color-1);
 }
 .s2{
-
+  background-color: var(--color-2);
 }
 .s3{
-
+  background-color: var(--color-pink);
 }
 /* NAVIGATION  */
 #fp-nav ul li a span{
