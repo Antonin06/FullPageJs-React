@@ -1,11 +1,11 @@
 import { Container } from 'react-bootstrap';
 import '../Assets/Css/Core/App.css'
 
-const Home = () => {
+const Contact = () => {
     return (
        <Container>
-           <h1 className="white text-center">Home</h1>
+           <h1 className="white text-center">Contact</h1>
        </Container>
     )
 }
-export default Home;
+export default Contact;
